@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677854916 source:c:\users\drig6\onedrive\desktop\parallel gyakok\1.hét\6.feladat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+
